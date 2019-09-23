@@ -1,10 +1,9 @@
 # Syllabus
 
 
-The syllabus for this class is currently posted in a Google Doc:
+The [syllabus for this class](https://docs.google.com/document/d/1LHQBqf53gtF4lDgLUmFVhNZ8XpuLdZddURmu6fXL2EA/) is currently posted in a Google Doc.
 
-https://docs.google.com/document/d/1LHQBqf53gtF4lDgLUmFVhNZ8XpuLdZddURmu6fXL2EA/
-
+See also, the [Tech901 Student Handbook (2019)](https://drive.google.com/a/tech901.org/file/d/1A-2Wp-P5cahiEM9hOtUIl8CMMsWj2htI/view?usp=sharing)
 
 ## Attendance
 
