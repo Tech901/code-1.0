@@ -10,66 +10,49 @@ EdX includes additional resources, such as slides, walkthrough videos, and
 
 ## CS50 Week 0: Introduction
 
-- Lecture: https://video.cs50.net/2018/fall/lectures/0
-- Notes: https://cs50.harvard.edu/x/notes/0/
-- **Pset 0**: https://docs.cs50.net/2019/x/psets/0/index.html
+- Week 0: https://cs50.harvard.edu/x/2020/weeks/0/
+- **Pset 0**: https://cs50.harvard.edu/x/2020/psets/0/
 
 ## CS50 Week 1: Intro to C
 
-- Lecture: http://video.cs50.net/2018/fall/lectures/1
-- Notes: https://cs50.harvard.edu/x/notes/1/
-- **Pset 1**: Hello, Mario, Cash, Credit: https://docs.cs50.net/2019/x/psets/1/index.html
+- Week 1: https://cs50.harvard.edu/x/2020/weeks/1/
+- **Pset 1**: Hello, Mario, Cash or Credit: https://cs50.harvard.edu/x/2020/psets/1/
 
 
-## CS50 Week 2: More C, data types and arrays
+## CS50 Week 2: More C, Arrays
 
-- Lecture: http://video.cs50.net/2018/fall/lectures/2
-- Notes: https://cs50.harvard.edu/x/notes/2/
-- **Pset 2**: Caesar, Vigenere, Crack: http://docs.cs50.net/2019/x/psets/2/index.html
+- Week 2: https://cs50.harvard.edu/x/2020/weeks/2/
+- **Pset 2**: Readability, Caesar or Substitution: https://cs50.harvard.edu/x/2020/psets/2/
 
 
-## CS50 Week 3: Strings, Memory, Structs.
+## CS50 Week 3: Algorithms
 
-- Lecture: http://video.cs50.net/2018/fall/lectures/3
-- Notes: https://cs50.harvard.edu/x/notes/3/
-- **Pset 3**: Whodunit, Resize, Recover: https://docs.cs50.net/2019/x/psets/3/index.html
+- Week 3: https://cs50.harvard.edu/x/2020/weeks/3/
+- **Pset 3**: Plurality, Runoff or Tideman: https://cs50.harvard.edu/x/2020/psets/3/
 
-## CS50 Week 4: Complex Data Structures
+## CS50 Week 4: Memory
 
-- Lecture: http://video.cs50.net/2018/fall/lectures/4
-- Notes: https://cs50.harvard.edu/x/notes/4/
-- **Pset 4**: Speller! https://docs.cs50.net/2019/x/psets/4/index.html
+- Week 4: https://cs50.harvard.edu/x/2020/weeks/4/
+- **Pset 4**: Filter, Recover: https://cs50.harvard.edu/x/2020/psets/4/
 
-## CS50 Week 5: The Internet and HTML
+## CS50 Week 5: Data Structures
 
-- Lecture: http://video.cs50.net/2018/fall/lectures/5
-- Notes: https://cs50.harvard.edu/x/notes/5/
-- **Pset 5**: Build a Homepage. https://docs.cs50.net/2019/x/psets/5/index.html
+- Week 5: https://cs50.harvard.edu/x/2020/weeks/5/
+- **Pset 5**: Speller! https://cs50.harvard.edu/x/2020/psets/5/
 
-## CS50 Week 6: More Python!
+## CS50 Week 6: Python!
 
-- Lecture: http://video.cs50.net/2018/fall/lectures/6
-- Notes: https://cs50.harvard.edu/x/notes/6/
-- **Pset 6**: Python _sentimental_: Hello, Mario, Cash, Credit, Caesar, Crack Vigenere, Bleep https://docs.cs50.net/2019/x/psets/6/index.html
+- Week 6: https://cs50.harvard.edu/x/2020/weeks/6/
+- **Pset 6**: Python _sentimental_: Hello, Mario, Cash, Credit, Readability, DNA https://cs50.harvard.edu/x/2020/psets/6/
 
-## CS50 Week 7: Comparing Files, an introduction to Flask
+## CS50 Week 7: Databases, SQL
 
-- Lecture: http://video.cs50.net/2018/fall/lectures/7
-- Notes: https://cs50.harvard.edu/x/notes/7/
-- **Pset 7**: Similarities, Survey https://docs.cs50.net/2019/x/psets/7/index.html
+- Week 7: https://cs50.harvard.edu/x/2020/weeks/7/
+- **Pset 7**: Movies, Houses: https://cs50.harvard.edu/x/2020/psets/7/
 
-## CS50 Week 8: Databases, SQL
+## CS50 Week 8: Wrapping up
 
-- Lecture: http://video.cs50.net/2018/fall/lectures/8
-- Notes: https://cs50.harvard.edu/x/notes/8/
-- **Pset 8**: Finance https://docs.cs50.net/2019/x/psets/8/index.html
+- Week 8: https://cs50.harvard.edu/x/2020/weeks/8/
+- Final Project: https://cs50.harvard.edu/x/2020/project/
+- CS50 Certificate: https://cs50.harvard.edu/x/2020/certificate/
 
-## CS50 Week 9
-
-- (nothing scheduled)
-
-## CS50 Week 10: Final Project
-
-- Lecture: http://video.cs50.net/2018/fall/lectures/9
-- Notes: https://cs50.harvard.edu/x/notes/10/
-- Final Project: https://docs.cs50.net/2019/x/project/project.html
