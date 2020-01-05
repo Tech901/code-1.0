@@ -1,9 +1,9 @@
 # Syllabus
 
 
-The [syllabus for this class](https://docs.google.com/document/d/1LHQBqf53gtF4lDgLUmFVhNZ8XpuLdZddURmu6fXL2EA/) is currently posted in a Google Doc.
+The [syllabus for this class](https://docs.google.com/document/d/1IckERJFpBJJt0Zm6kEqL6TV0GQr_uwK47D35BrdNjSM/edit?usp=sharing) is currently posted in a Google Doc.
 
-See also, the [Tech901 Student Handbook (2019)](https://drive.google.com/a/tech901.org/file/d/1A-2Wp-P5cahiEM9hOtUIl8CMMsWj2htI/view?usp=sharing)
+See also, the [Tech901 Student Handbook (2019)](https://docs.google.com/document/d/1rn1t9XO2CXj2gVc_dBKEk3SqFFozEAEb2GEj5Jgmv5M/edit#heading=h.1wd0fvq3yt8i)
 
 ## Attendance
 
