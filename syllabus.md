@@ -3,7 +3,7 @@
 
 The [syllabus for this class](https://docs.google.com/document/d/1IckERJFpBJJt0Zm6kEqL6TV0GQr_uwK47D35BrdNjSM/edit?usp=sharing) is currently posted in a Google Doc.
 
-See also, the [Tech901 Student Handbook (2019)](https://docs.google.com/document/d/1rn1t9XO2CXj2gVc_dBKEk3SqFFozEAEb2GEj5Jgmv5M/edit#heading=h.1wd0fvq3yt8i)
+See also, the [Tech901 Student Handbook](http://bit.ly/tech901-student-handbook)
 
 ## Attendance
 
