@@ -39,6 +39,7 @@ EdX includes additional resources, such as slides, walkthrough videos, and
 
 - Week 5: https://cs50.harvard.edu/x/2020/weeks/5/
 - **Pset 5**: Speller! https://cs50.harvard.edu/x/2020/psets/5/
+- Check the Big Board at https://speller.cs50.net 
 
 ## CS50 Week 6: Python!
 
