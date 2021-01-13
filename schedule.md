@@ -1,4 +1,4 @@
-# CS50 Schedule for Fall 2020
+# CS50 Schedule for Fall 2021
 
 
 The following links are posted here for convenience, but be sure to review the
@@ -8,60 +8,97 @@ additional course material posted in
 EdX includes additional resources, such as slides, walkthrough videos, and
 "shorts" that dive deeper into skills you need to complete the assignments.
 
-There's also the main link to the [CS50x OpenCourseWare](https://cs50.harvard.edu/x/2020/).
+There's also the main link to the [CS50x OpenCourseWare](https://cs50.harvard.edu/x/2021/).
 
 
 ## CS50 Week 0: Introduction
 
-- Week 0: https://cs50.harvard.edu/x/2020/weeks/0/
-- **Pset 0**: https://cs50.harvard.edu/x/2020/psets/0/
+- Week 0: https://cs50.harvard.edu/x/2021/weeks/0/
+- **Pset 0**: Scratch (do this one on your own) https://cs50.harvard.edu/x/2021/psets/0/
 
 ## CS50 Week 1: Intro to C
 
-- Week 1: https://cs50.harvard.edu/x/2020/weeks/1/
-- **Pset 1**: Hello, Mario, Cash or Credit: https://cs50.harvard.edu/x/2020/psets/1/
+Topics covered include: Data types, operators, conditions, loops, and the command line.
+
+- Week 1: https://cs50.harvard.edu/x/2021/weeks/1/
+- **Pset 1**: Hello, Mario, Cash or Credit: https://cs50.harvard.edu/x/2021/psets/1/
 
 
 ## CS50 Week 2: More C, Arrays
 
-- Week 2: https://cs50.harvard.edu/x/2020/weeks/2/
-- **Pset 2**: Readability, Caesar or Substitution: https://cs50.harvard.edu/x/2020/psets/2/
+Topics include: Functions, variables and scope, arrays, and command-line arguments
+
+- Week 2: https://cs50.harvard.edu/x/2021/weeks/2/
+- **Pset 2**: Readability, Caesar or Substitution: https://cs50.harvard.edu/x/2021/psets/2/
 
 
 ## CS50 Week 3: Algorithms
 
-- Week 3: https://cs50.harvard.edu/x/2020/weeks/3/
-- **Pset 3**: Plurality, Runoff or Tideman: https://cs50.harvard.edu/x/2020/psets/3/
+Topics include: Big O, searching and sorting, structs, and recursion
+
+- Week 3: https://cs50.harvard.edu/x/2021/weeks/3/
+- **Pset 3**: Plurality, Runoff or Tideman: https://cs50.harvard.edu/x/2021/psets/3/
 
 ## CS50 Week 4: Memory
 
-- Week 4: https://cs50.harvard.edu/x/2020/weeks/4/
-- **Pset 4**: Filter, Recover: https://cs50.harvard.edu/x/2020/psets/4/
+Topics include: Hex, pointers, strings, memory managment, and files.
+
+- Week 4: https://cs50.harvard.edu/x/2021/weeks/4/
+- **Pset 4**: Filter, Recover: https://cs50.harvard.edu/x/2021/psets/4/
 
 ## CS50 Week 5: Data Structures
 
-- Week 5: https://cs50.harvard.edu/x/2020/weeks/5/
-- **Pset 5**: Speller! https://cs50.harvard.edu/x/2020/psets/5/
-- Check the CS50x 2020 Big Board at https://speller.cs50.net (it's a leaderboard!)
+Topics include: (more) arrays, linked lists, trees.
+
+- Week 5: https://cs50.harvard.edu/x/2021/weeks/5/
+- **Pset 5**: Speller! https://cs50.harvard.edu/x/2021/psets/5/
+- Check the CS50x 2021 Big Board at https://speller.cs50.net (it's a leaderboard!)
 
 ## CS50 Week 6: Python!
 
-- Week 6: https://cs50.harvard.edu/x/2020/weeks/6/
-- **Pset 6**: Python: Hello, Mario, Cash, Credit, Readability, DNA https://cs50.harvard.edu/x/2020/psets/6/
+Topics include: Python basics
+
+- Week 6: https://cs50.harvard.edu/x/2021/weeks/6/
+- **Pset 6**: Python: Hello, Mario, Cash, Credit, Readability, DNA https://cs50.harvard.edu/x/2021/psets/6/
 
 ## CS50 Week 7: Databases, SQL
 
-- Week 7: https://cs50.harvard.edu/x/2020/weeks/7/
-- **Pset 7**: Movies, Houses: https://cs50.harvard.edu/x/2020/psets/7/
+Topics include: Data Processing, Relational Database concepts, SQL
 
-## CS50 Week 8: Wrapping up
+- Week 7: https://cs50.harvard.edu/x/2021/weeks/7/
+- **Pset 7**: Movies, Fiftyville: https://cs50.harvard.edu/x/2021/psets/7/
 
-- Week 8: https://cs50.harvard.edu/x/2020/weeks/8/
-- Pset 8: Choose a track -- Games, Mobile, Web: https://cs50.harvard.edu/x/2020/tracks
-- Final Project: https://cs50.harvard.edu/x/2020/project/
+## CS50 Week 8: HTML, CSS, JavaScript
+
+Topics include: The internet, HTML, HTTP, Web Development concepts
+
+- Week 8: https://cs50.harvard.edu/x/2021/weeks/8/
+- **Pset 8**: Homepage: https://cs50.harvard.edu/x/2021/psets/8/
+
+
+## CS50 Week 9: Flask
+
+Topics include: Web development with Python and Flask
+
+- Week 9: https://cs50.harvard.edu/x/2021/weeks/9/
+- **Pset 9**: Finance: https://cs50.harvard.edu/x/2021/psets/9/
+
+## CS50 Week 10: Ethics
+
+Topics include: Ethics discussion, wrapping up, and looking forward.
+
+- Week 10: https://cs50.harvard.edu/x/2021/weeks/10/
+- Final Project: https://cs50.harvard.edu/x/2021/project/
 
 ## CS50 Certificate
 
-- CS50 Certificate: https://cs50.harvard.edu/x/2020/certificate/
-- FAQ: https://cs50.harvard.edu/x/2020/faqs
+> If you submit and receive a score of at least 70% on each of this course’s
+> problem sets, labs, and final project, you will be eligible for a free CS50
+> Certificate like the below. For a verified certificate from edX, register at
+> cs50.edx.org. Check the FAQs for additional information, and if your question
+> is not covered there please email certificates@cs50.harvard.edu, and we’ll do
+> our best to help.
+
+- CS50 Certificate: https://cs50.harvard.edu/x/2021/certificate/
+- FAQs: https://cs50.harvard.edu/x/2021/faqs/
 
