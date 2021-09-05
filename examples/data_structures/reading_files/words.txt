@@ -1,0 +1,8 @@
+hello
+world
+these words are on the same line
+foo
+
+bar
+
+bingo
