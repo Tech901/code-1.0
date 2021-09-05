@@ -2,7 +2,7 @@
 
 Please read throught the following documents prior to class.
 
-- The [syllabus for this class](https://docs.google.com/document/d/1-VgdHda-Lfdj95MSosS6arURYp2V5KfIpYqmo6Owmik/edit) is currently posted in a Google Doc.
+- The [syllabus for this class](https://docs.google.com/document/d/1UNIcpu1RMlk9KKhxP4-41xbVBoI083McsgKLZaZH6Dc/edit?usp=sharing)
 - The [Tech901 Student Handbook](http://bit.ly/tech901-student-handbook) (pdf)
 
 ## Attendance
