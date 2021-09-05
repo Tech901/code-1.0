@@ -21,6 +21,7 @@ There's also the main link to the [CS50x OpenCourseWare](https://cs50.harvard.ed
 Topics covered include: Data types, operators, conditions, loops, and the command line.
 
 - Week 1: https://cs50.harvard.edu/x/2021/weeks/1/
+- **Lab 1**: https://cs50.harvard.edu/x/2021/labs/1/
 - **Pset 1**: Hello, Mario, Cash or Credit: https://cs50.harvard.edu/x/2021/psets/1/
 
 
@@ -29,6 +30,7 @@ Topics covered include: Data types, operators, conditions, loops, and the comman
 Topics include: Functions, variables and scope, arrays, and command-line arguments
 
 - Week 2: https://cs50.harvard.edu/x/2021/weeks/2/
+- **Lab 2**: https://cs50.harvard.edu/x/2021/labs/2/
 - **Pset 2**: Readability, Caesar or Substitution: https://cs50.harvard.edu/x/2021/psets/2/
 
 
@@ -37,6 +39,7 @@ Topics include: Functions, variables and scope, arrays, and command-line argumen
 Topics include: Big O, searching and sorting, structs, and recursion
 
 - Week 3: https://cs50.harvard.edu/x/2021/weeks/3/
+- **Lab 3**: https://cs50.harvard.edu/x/2021/labs/3/
 - **Pset 3**: Plurality, Runoff or Tideman: https://cs50.harvard.edu/x/2021/psets/3/
 
 ## CS50 Week 4: Memory
@@ -44,6 +47,7 @@ Topics include: Big O, searching and sorting, structs, and recursion
 Topics include: Hex, pointers, strings, memory managment, and files.
 
 - Week 4: https://cs50.harvard.edu/x/2021/weeks/4/
+- **Lab 4**: https://cs50.harvard.edu/x/2021/labs/4/
 - **Pset 4**: Filter, Recover: https://cs50.harvard.edu/x/2021/psets/4/
 
 ## CS50 Week 5: Data Structures
@@ -51,21 +55,24 @@ Topics include: Hex, pointers, strings, memory managment, and files.
 Topics include: (more) arrays, linked lists, trees.
 
 - Week 5: https://cs50.harvard.edu/x/2021/weeks/5/
+- **Lab 5**: https://cs50.harvard.edu/x/2021/labs/5/
 - **Pset 5**: Speller! https://cs50.harvard.edu/x/2021/psets/5/
-- Check the CS50x 2021 Big Board at https://speller.cs50.net (it's a leaderboard!)
 
 ## CS50 Week 6: Python!
 
 Topics include: Python basics
 
 - Week 6: https://cs50.harvard.edu/x/2021/weeks/6/
-- **Pset 6**: Python: Hello, Mario, Cash, Credit, Readability, DNA https://cs50.harvard.edu/x/2021/psets/6/
+- **Lab 6**: https://cs50.harvard.edu/x/2021/labs/6/
+- **Pset 6**: Python versions of Hello, Mario, Cash or Credit, Readability, DNA
+  https://cs50.harvard.edu/x/2021/psets/6/
 
 ## CS50 Week 7: Databases, SQL
 
 Topics include: Data Processing, Relational Database concepts, SQL
 
 - Week 7: https://cs50.harvard.edu/x/2021/weeks/7/
+- **Lab 7**: https://cs50.harvard.edu/x/2021/labs/7/
 - **Pset 7**: Movies, Fiftyville: https://cs50.harvard.edu/x/2021/psets/7/
 
 ## CS50 Week 8: HTML, CSS, JavaScript
@@ -73,6 +80,7 @@ Topics include: Data Processing, Relational Database concepts, SQL
 Topics include: The internet, HTML, HTTP, Web Development concepts
 
 - Week 8: https://cs50.harvard.edu/x/2021/weeks/8/
+- **Lab 8**: https://cs50.harvard.edu/x/2021/labs/8/
 - **Pset 8**: Homepage: https://cs50.harvard.edu/x/2021/psets/8/
 
 
@@ -81,6 +89,7 @@ Topics include: The internet, HTML, HTTP, Web Development concepts
 Topics include: Web development with Python and Flask
 
 - Week 9: https://cs50.harvard.edu/x/2021/weeks/9/
+- **Lab 9**: https://cs50.harvard.edu/x/2021/labs/9/
 - **Pset 9**: Finance: https://cs50.harvard.edu/x/2021/psets/9/
 
 ## CS50 Week 10: Ethics
@@ -88,6 +97,7 @@ Topics include: Web development with Python and Flask
 Topics include: Ethics discussion, wrapping up, and looking forward.
 
 - Week 10: https://cs50.harvard.edu/x/2021/weeks/10/
+- **Lab 10**: https://cs50.harvard.edu/x/2021/labs/10/
 - Final Project: https://cs50.harvard.edu/x/2021/project/
 
 ## CS50 Certificate
