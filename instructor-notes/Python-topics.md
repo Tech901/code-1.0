@@ -68,3 +68,15 @@ Setup part 2:
     - A repeating menu (good use-case for a `while` loop)
     - Stretch goal: saving to / loading from a file
 
+
+### Day 3: Stretch Goals
+
+If time allows, do a *gentle* introduction to C; Ideas here include:
+
+1. A "hello world" example; point out:
+    - the process of compilig and how it's different
+    - the usage of the `printf` function and how it differs from python's `print`
+    - the `main` function: All C programs need one of these.
+2. A `counter.c` program; Count to 10 using a while loop / for loop.
+    - importance of _declaring_ a variable and it's data type.
+
