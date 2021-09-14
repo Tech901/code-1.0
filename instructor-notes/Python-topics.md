@@ -59,4 +59,12 @@ Setup part 2:
 ## Day three
 
 - Explain command-line programs / inputs / `sys.argv`
-- Build a grocery list app for the command line.
+    - particularly converting numeric input to integers using `int()`
+- Build a grocery list app for the command line; Feature set:
+    - add items to a list
+    - remove items from a list
+    - print the list
+    - keep the list sorted / sort before printing
+    - A repeating menu (good use-case for a `while` loop)
+    - Stretch goal: saving to / loading from a file
+
