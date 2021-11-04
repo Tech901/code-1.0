@@ -1,69 +1,100 @@
-/**
- * An example program that illustrates a Linked-list of integers.
+/*
+ * This program illustrates using a Linked List.
+ *
  */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <cs50.h>
 
-// A single node in the list.
-typedef struct node {
+// Goal: Create a list that contains numeric values.
+// [ 5 ]->[ 3 ]->[ 12 ]->NULL
+
+typedef struct node
+{
     int data;
-    struct node *next;
+    struct node* next;
 } Node;
 
-// Function to print the whole linked list.
-void printList(Node* start);
+// Things to do with a linked list.
+// (each of these will be functions)
+//
+// 0. where is the start of the list?
+// 1. create (and initialize) a Node
+// 2. Add a node to the linked list (i.e. insert)
+// 3. Traverse the list (print)
+// 4. delete (and free) every node in the list.
 
-// Delete the list
-void deleteList(Node* n);
+Node* root = NULL;  // global: starting point for our linked list
 
+Node* create_node(int value);
+void insert(Node* n);
+void print_list();
+void delete_list(Node *n);
 
-int main(void) {
-    Node *root = NULL;
-    Node *previous = NULL;
-    Node *current = NULL;
-
-    int num_items = 0;
-    num_items = get_int("How many items do you want to keep? ");
-
-    for(int i=0; i < num_items; i++) {
-        // create a new node, and initial it's values
-        current = malloc(sizeof(Node));
-        current->data = get_int("Enter a number: ");
-        current->next = NULL;
-
-        // Remember the beginning of the list.
-        if(i == 0) {
-            root = current;
-        } else {
-            previous->next = current;
-        }
-        previous = current;
-        //printList(root); // print our list?
+int main(void)
+{
+    int items = get_int("How many items in your list? ");
+    for(int i=0; i < items; i++)
+    {
+        int value = get_int("Enter a number: ");
+        Node* n = create_node(value);
+        insert(n);
     }
 
-    printf("Deleting the list...\n");
-    printList(root); // print our list.
-
-    deleteList(root); // free up any memory we allocated.
+    print_list();
+    delete_list(root);
 }
 
-// Visit every node in the list and print its contents.
-void printList(Node* start) {
 
-    Node* current = start;
-    while(current != NULL) {
-        printf("[%i]->", current->data);
+Node* create_node(int value)
+{
+    // 1. Allocate memory to store a node.
+    Node* n = malloc(sizeof(Node));
+
+    // 2. Initialize the node's attributes
+    n->data = value;
+    n->next = NULL;
+    return n;
+}
+
+void insert(Node* n)
+{
+    // Is the list empty?
+    if(root == NULL)
+    {
+        root = n;   // root -> [n]
+    }
+    else
+    {
+        // where we start:      root -> [x]
+        // where we want to go: root -> [n] -> [x]
+        n->next = root;
+        root = n;
+    }
+}
+
+void print_list()    // a list traversal
+{
+    // Start at the beginning,
+    Node* current = root;
+    while(current != NULL)
+    {
+        // print each node's data attribute
+        printf("[ %i ]->", current->data);
+
+        // then go to the next node
         current = current->next;
     }
     printf("\n");
 }
 
-// Visit every node in the list and delete it from memory.
-// Using RECURSION!
-void deleteList(Node *n) {
-    if(n != NULL) {
-        deleteList(n->next);
+// Delete the list using recursion
+void delete_list(Node* n)
+{
+    if(n != NULL)
+    {
+        delete_list(n->next);
+        free(n);
     }
-    free(n);
 }
