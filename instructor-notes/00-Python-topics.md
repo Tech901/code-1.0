@@ -86,7 +86,11 @@
     - A repeating menu (good use-case for a `while` loop)
     - Stretch goal: saving to / loading from a file
 - If time allows:
-    - Bitwise operations 
+    - [Bitwise operations](https://docs.python.org/3/library/stdtypes.html#bitwise-operations-on-integer-types)
+    - The `bin` function
+    - The `hex` function
+    - The `int` function with `base`, e.g. `int("0xc", base=16)`
+
 
 ### Day 3: Stretch Goals
 
