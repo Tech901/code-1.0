@@ -5,7 +5,7 @@ to Computer Science.
 
 ## The Course
 
-- This course uses the [Harvard CS50 Curriculum on EdX](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+- This course uses the [Harvard CS50 Curriculum on EdX](https://cs50.edx.org/)
 - Read through [the syllabus](syllabus.md)
 - Review the [CS50 Pset schedule and resources](schedule.md)
 
