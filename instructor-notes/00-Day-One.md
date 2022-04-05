@@ -2,6 +2,8 @@
 
 These are things to discuss / review on the first night of class.
 
+- [Hello World presentation](https://docs.google.com/presentation/d/13mFT59E6FLPjrw9f60vJ8irJuHIdiSgk8OpodLppaR8/edit?usp=sharing)
+
 ## Roll call
 
 Don't forget it.
