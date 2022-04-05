@@ -12,7 +12,7 @@ to Computer Science.
 
 ## Resources
 
-- The [CS50 IDE](https://ide.cs50.io/)
+- [VS Code for CS50](https://code.cs50.io/)
 - [CS50 C Reference](https://man.cs50.io/)
 - [CS50.me](https://cs50.me) -- online PSet results.
 
