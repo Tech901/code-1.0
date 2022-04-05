@@ -1,60 +1,78 @@
 # Intro to Programming / Python
 
-Much of this can be covered in guided, exploratory programming (e.g. in the python shell)
+- Much of this will be covered in guided, exploratory programming.
+- This content should prepare students for most of the [PCEP](https://pythoninstitute.org/certification/pcep-certification-entry-level/)
+- Workflow for students:  Write code in the editor, run the python module in the terminal. 
 
-## Linux:
+## Linux + CS50 IDE Setup & Review
 
 - What is the command line?
 - What is the editor?
-- What is the python shell?
+- How to run a python _script_.
 
+### Basic bash commands
 
-## CS50 IDE Setup:
-
-- Running from the python shell
-- Running python from a file / module.
+- `cd` -  to change directory
+- `ls -alh` - to list files
+- `pwd` - print working directory.
+- `mkdir` - make a directory
+- `touch <filename>` to create an empty file.
 
 ## Day one Topics: Guided programming / workshop
 
 - Variables and assignment.
-- Arithmetic
-- Comparison operators
-- Data Types:
-    - Integers, floats, strings, boolean. (hint at objects), None
+- Printing & variable interpolation
+- Start pointing out Exceptions where applicable.
+- Basic Arithmetic: `+`, `-`, `/`, `*`
+- Comparison operators: `<`, `<=`, `>`, `>=`, `==`, `!=`
+- Data Types: ([see the official docs](https://docs.python.org/3/library/stdtypes.html))
+    - Numeric Types: `int`, `float`
+    - Sequence Types: `list`, `tuple`, `range` 
+        - Useful functions for sequences: (`len`, `sorted`, `reversed`)
+        - Aggregate functions: `sum`, `min`, `max`
+    - Text Sequences: `str`
+    - Slicing.
+    - Sets: `set`
+    - The `None` type.
     - Show errors when trying to perform operations of incompatible types
     - e.g. arithmetic w/ strings
-    - String Operators
-- Misc built-in functions: sum, min, max, len, etc.
-- if / elif / else
-- while loops
-- for loops (a little)
+    - String Methods (`capitalize`, `lower`, `upper`, `isalpha`, `isnumeric`)
+- The `help` function.
+- Flow control (i.e. [compound statements](https://docs.python.org/3/reference/compound_stmts.html#))
+    - `if`, `elif`, `else`
+    - `while` loops
+    - `for` loops (a little)
+    - The `pass` keyword
+    - `break`, `continue`, and the optional `else` block on `for` & `while` loops.
 - HOMEWORK assignment 1
 
+----
 
 ## Day 2
 
-Setup part 2:
+### Day two topics
 
-- `pip install ipython`
-- explain the difference between this and the python shell.
-- point at the `.python_history` file. (for anyone that lost their python shell history.)
+- Review of items from Day 1.
+- Functions:
+    - Point out the type functions: `type`, `int`, `float`, `str`, `list`
+    - Review collection functions: len, sum, max, min,
+    - others from the challenge: `chr`, `ord`,
+    - `input`
+    - User-defined functions:
+        - function name, paramters (positional v. keyword)
+        - defaults using keywords parameters.
+        - `return`
+    - Assertions.
 
+- Modules: 
+    - What is a module (e.g. anything in a .py file)
+    - Standard library modules
+        - random
+        - statistics
+        - datetime, calendar
+        - random
 
-## Day two topics
-
-- Lists / Strings continued...
-    - methods
-    - built-in functions: len, sorted, list()
-- Functions (builtins)
-    - type functions: type, int, float, str, list
-    - collection functions: len, sum, max, min,
-    - others: chr, ord,
-    - methods on strings?
-- Functions (our own) / input output
-- Modules: Running code from a file. (all above is in the python shell)
-    - collections
-    - datetime, calendar
-    - random
+----
 
 ## Day three
 
@@ -67,6 +85,11 @@ Setup part 2:
     - keep the list sorted / sort before printing
     - A repeating menu (good use-case for a `while` loop)
     - Stretch goal: saving to / loading from a file
+- If time allows:
+    - [Bitwise operations](https://docs.python.org/3/library/stdtypes.html#bitwise-operations-on-integer-types)
+    - The `bin` function
+    - The `hex` function
+    - The `int` function with `base`, e.g. `int("0xc", base=16)`
 
 
 ### Day 3: Stretch Goals
