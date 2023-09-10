@@ -14,7 +14,8 @@ Don't forget it.
 - Attendance
 - Assignments and effort
 - Communication / Help.
-- CS50x Videos
+- CS50x Videos (watch them!)
+- Tuesdays: Practice time!
 
 ## Resources
 
