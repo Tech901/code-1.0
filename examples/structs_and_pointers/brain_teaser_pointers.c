@@ -14,7 +14,7 @@ int main()
     for(i=0; i < 10000000; i++) {
 
         *&i = 10;
-
     }
+    printf("i = %i\n", i);
     return 0;
 }
