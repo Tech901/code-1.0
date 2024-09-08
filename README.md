@@ -5,7 +5,7 @@ to Computer Science.
 
 ## The Course
 
-- This course uses the [Harvard CS50 Curriculum on EdX](https://cs50.edx.org/) -- also available directly at the: [CS50 2023 curriculum site](https://cs50.harvard.edu/x/2023/).
+- This course uses the [Harvard CS50 Curriculum on EdX](https://cs50.edx.org/) -- also available directly at the: [CS50 2024 curriculum site](https://cs50.harvard.edu/x/2024/).
 - Read through [the syllabus](syllabus.md)
 - Review the [CS50 Pset schedule and resources](schedule.md)
 

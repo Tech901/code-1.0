@@ -2,7 +2,7 @@
 
 Please read throught the following documents prior to class.
 
-- The [syllabus for this class](https://docs.google.com/document/d/1aL4H6yyi9wvipyahNY0OchQDf_3xkBfG_2yCw6qJHR8/edit)
+- The [Fall 2024 Syllabus](https://docs.google.com/document/d/1aL4H6yyi9wvipyahNY0OchQDf_3xkBfG_2yCw6qJHR8)
 - The [Tech901 Student Handbook](http://bit.ly/tech901-student-handbook) (pdf)
 
 ## Attendance
