@@ -21,7 +21,5 @@ Don't forget it.
 
 - Moodle (Point to syllabus and Hand book, git resources)
 - Grading -- Syllabus.
-- Tech901 Email, Github, CS50 IDE, EdX
+- Tech901 Email, Github, CS50.dev
 - Calendar invites to the class.
-- Slack
-
