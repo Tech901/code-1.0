@@ -1,38 +1,79 @@
 #include <stdio.h>
-#include <cs50.h>
+#include <cs50.h>  // NOT part of standard C...
 
-// Hey, this is a comment.
-int main(void) {
 
-    int number = 3; // this is how you define an integer'
-    char letter = 'a';  // this is a character type
-    float value = 3.14; // this is a float
+// C: A statically typed language.
+// main returns an integer data type.
+int main(void)  // -- Takes no inputs.
+{
+    // Variables.
+    // <data type> <variable name> = <value>;
+    int age; // we do not initialize this variable.
+    const float pi = 3.14;  // Constant values cannot be changed.
+    char letter = 'a';
+    bool isFun = true;
 
-    string name = get_string("What is your name?\n");
-    printf("Hello %s your number is %i\n", name, number);
+    // Strings are a lie.
+    string name = get_string("What is your name? ");
+    age = get_int("How old are you? ");
 
-    // printing stuff out with format specifiers (like %s)
-    printf("letter = %c and value = %f\n", letter, value);
-    printf("letter = %c, but also %d\n", letter, letter);
-    printf("103 is actually letter: %c\n", 103);
+    // Printing variable contents:
+    // python code:  print(f"Hello {name}") <--- string interpolation.
+    // Replace %s with the contents of the variable `name`
+    printf("Hello %s\n", name);
+    printf("Age is %i,\n PI is %f,\n and this \n\n is the letter %c\n", age, pi, letter);
+    printf("The bool is %i\n", isFun);
 
-    // The for loop
-    for(int i=0; i < 5; i++) {
-        printf("i = %d\n", i);
+    // Make some decisions.
+    // && -- logical AND.
+    // || -- logical OR
+    if (age >= 100 && pi > 3)
+    {
+        printf("Wooooo that's old\n");
+    }
+    else if (age >= 50 || age == 46)  // elif is not a thing in C!
+    {
+        printf("I'm in my prime\n");
+    }
+    else
+    {
+        printf("Good to be young!\n");
     }
 
-    // A for loop INSIDE a for loop
-    for(int row=0; row < 5; row++) {
-        for(int col=0; col < 3; col++) {
-            printf(" (%d, %d) |", row, col);
+    // Loops...
+    int count = 1;
+    while (count <= 5)
+    {
+        printf("- %i\n", count);
+        count++;
+    }
+
+    // 3 parts:
+    // 1. Where do we start?
+    // 2. When do we end?
+    // 3. What should we do AFTER every iteration?
+    // i++
+    // i = i + 1
+    for (int i=1; i <= age; i++)
+    {
+        printf("%i bottles of b**r on the wall...\n", i);
+    }
+
+
+    // For-loops inside for-loops; aka working on a grid.
+    for (int row=0; row < 4; row++)
+    {
+        for (int column=0; column < 4; column++)
+        {
+            printf("| (%i, %i) ", row, column);
         }
         printf("\n");
     }
 
-}
 
-/*
- This is multi-line comment.
- Everything until the closing comment
- will be ignored by the compiler.
-*/
+    return 0; // (optional) Good!
+
+    // Convention:
+    // * return 0 -- my program ends successfully.
+    // * return 1 -- my program ends with an error.
+}
