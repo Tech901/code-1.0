@@ -2,7 +2,7 @@
 
 Please read throught the following documents prior to class.
 
-- The [Fall 2025 Syllabus]()
+- The [Fall 2025 Syllabus](https://docs.google.com/document/d/1tSud5sCGB0N4HhZ_ag6XAtldgNSOPQzbjUz2LyfN-MY/edit?usp=sharing)
 - The [Tech901 Student Handbook](http://bit.ly/tech901-student-handbook) (pdf)
 
 ## Attendance
